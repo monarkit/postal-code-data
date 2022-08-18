@@ -1,6 +1,6 @@
 {
   "name": "postal-code-data",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "Dataset of country postal code formats",
   "main": "index.js",
   "scripts": {},
@@ -8,7 +8,6 @@
     "type": "git",
     "url": "https://github.com/monarkit/postal-code-data.git"
   },
-  
   "keywords": [
     "country",
     "postal",
