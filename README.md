@@ -29,6 +29,7 @@ or
 - `1.0.8` - Sep 02, 2020. Slovakia postal code now requires space for DHL API.
 - `1.0.9` - Sep 09, 2020. Swedish postal code now requires space for DHL API.
 - `1.0.10` - Sep 24, 2020. CZ postal code now requires space for DHL API.
+- `1.0.12` - Sep 24, 2020. Vietnam postal code now requires 6 digits instead of 5.
 
 ### License
 MIT.
