@@ -1,6 +1,6 @@
 {
   "name": "postal-code-data",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Dataset of country postal code formats",
   "main": "index.js",
   "scripts": {},
