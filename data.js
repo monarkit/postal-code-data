@@ -217,7 +217,7 @@ module.exports = [
 	{	countryCode: 'VU',		postalCodeType: 0,		pattern: 0}, // Verified C
 	{	countryCode: 'VA',		postalCodeType: 3,		pattern: '00120'}, // Verified C
 	{	countryCode: 'VE',		postalCodeType: 1,		pattern: /^[0-9]{4}(-?[A-Z])?$/, placeholder: '0000'}, // Verified
-	{	countryCode: 'VN',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '00000'}, // Verified
+	{	countryCode: 'VN',		postalCodeType: 1,		pattern: /^[0-9]{6}$/, placeholder: '000000'}, // Verified
 	{	countryCode: 'YE',		postalCodeType: 0,		pattern: 0}, // Verified C
 	{	countryCode: 'ZM',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '00000'}, // Verified
 	{	countryCode: 'ZW',		postalCodeType: 0,		pattern: 0} // Verified C
