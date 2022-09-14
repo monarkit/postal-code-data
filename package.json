@@ -1,6 +1,6 @@
 {
   "name": "@monarkit/postal-code-data",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Dataset of country postal code formats",
   "main": "index.js",
   "scripts": {},
