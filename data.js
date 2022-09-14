@@ -76,7 +76,7 @@ module.exports = [
 	{	countryCode: 'PF',		postalCodeType: 1,		pattern: /^987[0-9]{2}$/, placeholder: '987__'}, // Verified
 	{	countryCode: 'GA',		postalCodeType: 0,		pattern: 0}, // Verified C
 	{	countryCode: 'GM',		postalCodeType: 0,		pattern: 0}, // Verified C
-	{	countryCode: 'GE',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '0000'}, // Verified
+	{	countryCode: 'GE',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '00000'}, // Verified
 	{	countryCode: 'DE',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '00000'}, // Verified
 	{	countryCode: 'GH',		postalCodeType: 1,		pattern: /^[A-Z][0-9A-Z]-?[0-9]{3,4}(-?[0-9]{4})?$/, placeholder: 'XX0000 or XX-0000-0000'}, // Verified
 	{	countryCode: 'GI',		postalCodeType: 3,		pattern: 'GX11 1AA'}, // Verified C
