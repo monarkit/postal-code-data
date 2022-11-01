@@ -32,6 +32,7 @@ or
 - `1.0.15` - Aug 18, 2022. Vietnam postal code now requires 6 digits instead of 5.
 - `1.0.16` - Sep 14, 2022. GE postal code now requires 5 digits instead of 4. 
 - `1.0.17` - Sep 14, 2022. Updated GE postal code to 4 digits as previous update was a mistake due to incorrect intel. 
+- `1.0.18` - Nov 1, 2022. Updated KH postal code to 6 digits. 
 
 ### License
 MIT.

@@ -33,7 +33,7 @@ module.exports = [
 	{	countryCode: 'BG',		postalCodeType: 1,		pattern: /^[0-9]{4}$/, placeholder: '0000'}, // Verified
 	{	countryCode: 'BF',		postalCodeType: 1,		pattern: /^[0-9]{2}$/, placeholder: '00'}, // PO Box based system 00 XX 0000 should be address line, but first 00 should be used as a postal code also.
 	{	countryCode: 'BI',		postalCodeType: 0,		pattern: 0}, // Verified C
-	{	countryCode: 'KH',		postalCodeType: 1,		pattern: /^[0-9]{5}$/, placeholder: '00000'}, // Verified
+	{	countryCode: 'KH',		postalCodeType: 1,		pattern: /^[0-9]{6}$/, placeholder: '000000'}, // Verified
 	{	countryCode: 'CM',		postalCodeType: 0,		pattern: 0}, // Verified C
 	{	countryCode: 'CA',		postalCodeType: 1,		pattern: /^[A-Z][0-9][A-Z]\s?[0-9][A-Z][0-9]$/, placeholder: 'X0X 0X0'}, // Verified
 	{	countryCode: 'CV',		postalCodeType: 1,		pattern: /^[0-9]{4}$/, placeholder: '0000'}, // Verified
